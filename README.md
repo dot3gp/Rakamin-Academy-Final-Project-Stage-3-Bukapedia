@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dot3gp)](https://github.com/dot3gp/github-readme-stats&show_icons=true&theme=onedark)
+
+
 # Rakamin-Academy-Final-Project-Bukapedia
 # E-COMMERCE CUSTOMERS CHURN ANALYSIS AND PREDICTION
 # Introduce
@@ -9,6 +12,7 @@ Churn is a condition where customers unsubscribe or leave the our service.
 
 # Problem Statement
 ![image](https://user-images.githubusercontent.com/61017058/196086055-cbca0c18-eacf-48ba-873c-7b485f876f75.png)
+
 Objective : Predicting potential Churn customers by making Machine Learning Model.
 and Give Insight & recomendations to Reduce CHURN RATE.
 
@@ -25,9 +29,11 @@ Goals : LOWER CHURN RATE AND MINIMIZE POTENTIAL LOSS DUE TO CHURN
 
 # Business Recomendation
 ![image](https://user-images.githubusercontent.com/61017058/196086482-21d59944-1836-4813-8e88-76abd346567a.png)
+
 The percentage of churn due to customer complaints
 (31.67%) almost 3 times greater than the percentage of total churn of customers who did not complain (10.93%).
 
 # Business impact 
 ![image](https://user-images.githubusercontent.com/61017058/196086591-c6beb124-7688-41b8-8681-59ba2c34af06.png)
+
 after using the machine learning modeling that we have created, it is expected to reduce the potential for churn by 20% ! 
